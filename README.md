@@ -18,5 +18,5 @@ under commented to the point of being indecipherable (and interesting).
 Its motivation was to experiment with random generation in C.
 Its goal/use was to generate names for video game player characters, specifically rogue-likes where you constantly make new characters.
 
-Any failure condition will exit the program and print !["Rot in shreds."](https://deathhammer.bandcamp.com/track/rot-in-shreds)
+Any failure condition will exit the program and print ["Rot in shreds."](https://deathhammer.bandcamp.com/track/rot-in-shreds)
 (Because I really liked that song at the time.)
